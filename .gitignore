@@ -70,5 +70,21 @@ temp/
 Thumbs.db
 .DS_Store
 
+# Project specific files to ignore
+c506b360cd916bf03763bc68ba5f1c43.jpg
+ref-resource.md
+FULL_RESEARCH_ROADMAP.md
+context-engineering-tutorial-outilne.md
+.cursorindexingignore
+
+# Project directories to ignore
+assets/
+.specstory/
+.obsidian/
+.claude/
+
+
+
+
 
 
